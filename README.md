@@ -1,4 +1,4 @@
-# Hi there, I'm Priyans! 👋
+# Hi there, I'm Priyanshu! 👋
 
 ## About Me
 - 💻 Software developer passionate about building meaningful applications
